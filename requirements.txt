@@ -1,0 +1,4 @@
+langchain-community==0.0.17
+langchain-core==0.1.18
+langchain-google-vertexai==0.0.3
+langchain==0.1.5
